@@ -18,3 +18,24 @@ a {
 a:hover {
   color: #008467;
 }
+nav ul {
+  padding: 0;
+}
+nav li {
+  list-style: none;
+}
+nav li a {
+  float: left;
+  display: block;
+  background-color: #00CA9E;
+  color: #fff;
+  padding: 10px;
+  margin: 0px 10px 10px 0px;
+}
+nav li a:hover {
+  background-color: #008467;
+  color: #fff;
+}
+nav {
+  overflow: hidden;
+}
