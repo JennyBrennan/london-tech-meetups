@@ -11,3 +11,10 @@ body {
 h1,h2,h3{
   line-height:1.2
 }
+a {
+  color: #00CA9E;
+  text-decoration: none;
+}
+a:hover {
+  color: #008467;
+}
